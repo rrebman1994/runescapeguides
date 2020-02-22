@@ -1,3 +1,8 @@
+#container {
+  	width: 800px;
+ 	margin: 40px auto 60px;
+}
+
 /* The sidebar menu */
 .sidenav {
   height: 98%; /* Full-height: remove this if you want "auto" height */
@@ -35,9 +40,4 @@
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
-}
-
-#container {
-  	width: 800px;
- 	margin: 40px auto 60px;
 }
