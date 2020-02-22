@@ -1,1 +1,1 @@
-# runescapeguides.github.io
+# runescapeguides
